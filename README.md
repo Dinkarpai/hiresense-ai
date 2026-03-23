@@ -58,6 +58,10 @@ Add frontend with Streamlit or React
 Deploy with Docker and cloud hosting
 Add semantic matching with transformer embeddings
 
+## API Preview
+
+![HireSense AI Swagger UI](screenshots/swagger-ui.png)
+
 ## Author
 Dinkar Pai
 
